@@ -1,0 +1,9 @@
+﻿  CSVParser.cpp
+c:\raymond\nyu tandon\industry project\swaptionhedging\swaptionhedging\csvparser.cpp(115): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\raymond\nyu tandon\industry project\swaptionhedging\swaptionhedging\csvparser.cpp(120): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\raymond\nyu tandon\industry project\swaptionhedging\swaptionhedging\csvparser.cpp(202): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Hedging.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\raymond\nyu tandon\industry project\swaptionhedging\swaptionhedging\hedging.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SwaptionHedging.vcxproj -> C:\raymond\NYU Tandon\Industry Project\SwaptionHedging\x64\Debug\SwaptionHedging.exe

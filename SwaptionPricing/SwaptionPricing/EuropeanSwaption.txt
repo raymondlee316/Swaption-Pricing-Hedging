@@ -1,0 +1,315 @@
+Hull-White (analytic formulae) calibration
+1x1: model 114.99008 %, market 71.90000 % (+43.09008 %)
+Black Price:0.0044127
+Market Value:0.0028509
+1x2: model 72.69466 %, market 59.80000 % (+12.89466 %)
+Black Price:0.0086677
+Market Value:0.0071807
+1x3: model 54.08847 %, market 50.00000 % (+4.08847 %)
+Black Price:0.012732
+Market Value:0.01179
+1x4: model 43.96568 %, market 42.80000 % (+1.16568 %)
+Black Price:0.016516
+Market Value:0.016085
+1x5: model 37.88823 %, market 38.78000 % (-0.89177 %)
+Black Price:0.020055
+Market Value:0.020522
+1x6: model 33.99308 %, market 35.30000 % (-1.30692 %)
+Black Price:0.02335
+Market Value:0.024238
+1x7: model 31.35220 %, market 32.97000 % (-1.61780 %)
+Black Price:0.026415
+Market Value:0.027766
+1x8: model 29.42729 %, market 31.55000 % (-2.12271 %)
+Black Price:0.02929
+Market Value:0.031385
+1x9: model 27.96317 %, market 30.48000 % (-2.51683 %)
+Black Price:0.031929
+Market Value:0.034782
+1x10: model 26.81116 %, market 29.15000 % (-2.33884 %)
+Black Price:0.034384
+Market Value:0.037362
+2x1: model 54.40532 %, market 54.42000 % (-0.01468 %)
+Black Price:0.0060898
+Market Value:0.0060914
+2x2: model 43.53530 %, market 44.75000 % (-1.21470 %)
+Black Price:0.011905
+Market Value:0.012227
+2x3: model 36.88631 %, market 38.35000 % (-1.46369 %)
+Black Price:0.017419
+Market Value:0.018094
+2x4: model 32.76231 %, market 34.53000 % (-1.76769 %)
+Black Price:0.022538
+Market Value:0.02373
+2x5: model 30.03544 %, market 32.15000 % (-2.11456 %)
+Black Price:0.027326
+Market Value:0.029218
+2x6: model 28.15649 %, market 30.33000 % (-2.17351 %)
+Black Price:0.031791
+Market Value:0.034208
+2x7: model 26.77140 %, market 28.88000 % (-2.10860 %)
+Black Price:0.03596
+Market Value:0.038754
+2x8: model 25.68485 %, market 28.10000 % (-2.41515 %)
+Black Price:0.039847
+Market Value:0.043547
+2x9: model 24.82620 %, market 27.30000 % (-2.47380 %)
+Black Price:0.043434
+Market Value:0.047711
+2x10: model 24.11932 %, market 26.43000 % (-2.31068 %)
+Black Price:0.046771
+Market Value:0.051202
+3x1: model 36.75263 %, market 38.08000 % (-1.32737 %)
+Black Price:0.0072171
+Market Value:0.0074686
+3x2: model 32.11798 %, market 33.58000 % (-1.46202 %)
+Black Price:0.01409
+Market Value:0.014714
+3x3: model 29.19090 %, market 30.75000 % (-1.55910 %)
+Black Price:0.02049
+Market Value:0.021559
+3x4: model 27.22825 %, market 29.00000 % (-1.77175 %)
+Black Price:0.026491
+Market Value:0.02818
+3x5: model 25.86527 %, market 27.83000 % (-1.96473 %)
+Black Price:0.032094
+Market Value:0.034486
+3x6: model 24.84699 %, market 26.88000 % (-2.03301 %)
+Black Price:0.037332
+Market Value:0.040334
+3x7: model 24.03218 %, market 25.95000 % (-1.91782 %)
+Black Price:0.042222
+Market Value:0.045537
+3x8: model 23.37981 %, market 25.77000 % (-2.39019 %)
+Black Price:0.046739
+Market Value:0.051442
+3x9: model 22.83536 %, market 25.20000 % (-2.36464 %)
+Black Price:0.050944
+Market Value:0.056141
+3x10: model 22.52266 %, market 24.48000 % (-1.95734 %)
+Black Price:0.054953
+Market Value:0.05966
+4x1: model 28.84467 %, market 29.65000 % (-0.80533 %)
+Black Price:0.0080363
+Market Value:0.0082543
+4x2: model 26.72497 %, market 27.88000 % (-1.15503 %)
+Black Price:0.015543
+Market Value:0.016198
+4x3: model 25.28439 %, market 26.55000 % (-1.26561 %)
+Black Price:0.022595
+Market Value:0.023701
+4x4: model 24.27861 %, market 25.73000 % (-1.45139 %)
+Black Price:0.029188
+Market Value:0.030896
+4x5: model 23.51430 %, market 25.00000 % (-1.48570 %)
+Black Price:0.035358
+Market Value:0.037548
+4x6: model 22.88641 %, market 24.42000 % (-1.53359 %)
+Black Price:0.041124
+Market Value:0.043827
+4x7: model 22.37614 %, market 23.85000 % (-1.47386 %)
+Black Price:0.046453
+Market Value:0.049457
+4x8: model 21.94346 %, market 23.75000 % (-1.80654 %)
+Black Price:0.051418
+Market Value:0.055575
+4x9: model 21.72703 %, market 23.48000 % (-1.75297 %)
+Black Price:0.056143
+Market Value:0.060593
+4x10: model 21.41693 %, market 22.88000 % (-1.46307 %)
+Black Price:0.06049
+Market Value:0.064553
+5x1: model 25.12817 %, market 25.80000 % (-0.67183 %)
+Black Price:0.0085122
+Market Value:0.0087337
+5x2: model 24.02744 %, market 25.20000 % (-1.17256 %)
+Black Price:0.016502
+Market Value:0.017287
+5x3: model 23.25837 %, market 24.55000 % (-1.29163 %)
+Black Price:0.023979
+Market Value:0.025279
+5x4: model 22.65848 %, market 23.70000 % (-1.04152 %)
+Black Price:0.031003
+Market Value:0.032395
+5x5: model 22.15271 %, market 23.30000 % (-1.14729 %)
+Black Price:0.037499
+Market Value:0.039399
+5x6: model 21.73191 %, market 22.85000 % (-1.11809 %)
+Black Price:0.043576
+Market Value:0.04577
+5x7: model 21.37052 %, market 22.42000 % (-1.04948 %)
+Black Price:0.049239
+Market Value:0.051608
+5x8: model 21.22306 %, market 22.40000 % (-1.17694 %)
+Black Price:0.054603
+Market Value:0.05757
+5x9: model 20.95699 %, market 22.15000 % (-1.19301 %)
+Black Price:0.059574
+Market Value:0.062898
+5x10: model 20.61421 %, market 21.70000 % (-1.08579 %)
+Black Price:0.064106
+Market Value:0.067419
+6x1: model 23.25746 %, market 23.85000 % (-0.59254 %)
+Black Price:0.0088477
+Market Value:0.0090668
+6x2: model 22.64577 %, market 23.40000 % (-0.75423 %)
+Black Price:0.017137
+Market Value:0.017692
+6x3: model 22.14873 %, market 22.90000 % (-0.75127 %)
+Black Price:0.024929
+Market Value:0.025753
+6x4: model 21.71142 %, market 22.50000 % (-0.78858 %)
+Black Price:0.032142
+Market Value:0.03328
+6x5: model 21.34446 %, market 22.20000 % (-0.85554 %)
+Black Price:0.038891
+Market Value:0.040412
+6x6: model 21.02536 %, market 21.88000 % (-0.85464 %)
+Black Price:0.045184
+Market Value:0.046978
+6x7: model 20.93152 %, market 21.48000 % (-0.54848 %)
+Black Price:0.051135
+Market Value:0.052445
+6x8: model 20.69214 %, market 21.35000 % (-0.65786 %)
+Black Price:0.056659
+Market Value:0.05842
+6x9: model 20.36134 %, market 21.25000 % (-0.88866 %)
+Black Price:0.061705
+Market Value:0.064338
+6x10: model 20.47655 %, market 20.95000 % (-0.47345 %)
+Black Price:0.066666
+Market Value:0.068175
+7x1: model 22.29693 %, market 22.50000 % (-0.20307 %)
+Black Price:0.0090391
+Market Value:0.0091191
+7x2: model 21.85253 %, market 22.27000 % (-0.41747 %)
+Black Price:0.017565
+Market Value:0.017891
+7x3: model 21.44712 %, market 21.70000 % (-0.25288 %)
+Black Price:0.025441
+Market Value:0.025733
+7x4: model 21.10911 %, market 21.25000 % (-0.14089 %)
+Black Price:0.032792
+Market Value:0.033005
+7x5: model 20.81505 %, market 20.80000 % (+0.01505 %)
+Black Price:0.039673
+Market Value:0.039645
+7x6: model 20.77117 %, market 20.80000 % (-0.02883 %)
+Black Price:0.046168
+Market Value:0.046231
+7x7: model 20.54714 %, market 20.40000 % (+0.14714 %)
+Black Price:0.052172
+Market Value:0.051808
+7x8: model 20.21191 %, market 20.55000 % (-0.33809 %)
+Black Price:0.057743
+Market Value:0.058686
+7x9: model 20.36880 %, market 20.50000 % (-0.13120 %)
+Black Price:0.063135
+Market Value:0.063532
+7x10: model 20.39300 %, market 20.08000 % (+0.31300 %)
+Black Price:0.068182
+Market Value:0.06716
+8x1: model 21.65650 %, market 21.20000 % (+0.45650 %)
+Black Price:0.009153
+Market Value:0.0089658
+8x2: model 21.26136 %, market 21.10000 % (+0.16136 %)
+Black Price:0.017729
+Market Value:0.017599
+8x3: model 20.94732 %, market 20.73000 % (+0.21732 %)
+Black Price:0.025672
+Market Value:0.025413
+8x4: model 20.67021 %, market 20.35000 % (+0.32021 %)
+Black Price:0.033086
+Market Value:0.032588
+8x5: model 20.68464 %, market 20.18000 % (+0.50464 %)
+Black Price:0.040097
+Market Value:0.039146
+8x6: model 20.46800 %, market 20.05000 % (+0.41800 %)
+Black Price:0.046588
+Market Value:0.045662
+8x7: model 20.11676 %, market 19.80000 % (+0.31676 %)
+Black Price:0.052584
+Market Value:0.051778
+8x8: model 20.32996 %, market 19.80000 % (+0.52996 %)
+Black Price:0.058446
+Market Value:0.056963
+8x9: model 20.37083 %, market 19.77000 % (+0.60083 %)
+Black Price:0.063847
+Market Value:0.062013
+8x10: model 20.28984 %, market 19.70000 % (+0.58984 %)
+Black Price:0.068881
+Market Value:0.066931
+9x1: model 21.10236 %, market 20.45000 % (+0.65236 %)
+Black Price:0.0091851
+Market Value:0.0089101
+9x2: model 20.81942 %, market 20.23000 % (+0.58942 %)
+Black Price:0.017694
+Market Value:0.017209
+9x3: model 20.56029 %, market 20.02000 % (+0.54029 %)
+Black Price:0.025639
+Market Value:0.024986
+9x4: model 20.65409 %, market 19.68000 % (+0.97409 %)
+Black Price:0.033142
+Market Value:0.031625
+9x5: model 20.43766 %, market 19.43000 % (+1.00766 %)
+Black Price: 0.0401
+Market Value:0.03818
+9x6: model 20.06204 %, market 19.30000 % (+0.76204 %)
+Black Price:0.046541
+Market Value:0.044823
+9x7: model 20.33643 %, market 19.05000 % (+1.28643 %)
+Black Price:0.052794
+Market Value:0.049547
+9x8: model 20.40672 %, market 19.02000 % (+1.38672 %)
+Black Price:0.058578
+Market Value:0.054709
+9x9: model 20.32927 %, market 19.05000 % (+1.27927 %)
+Black Price:0.063965
+Market Value:0.060052
+9x10: model 20.14025 %, market 19.08000 % (+1.06025 %)
+Black Price:0.068941
+Market Value:0.065412
+10x1: model 20.76210 %, market 19.68000 % (+1.08210 %)
+Black Price:0.0090784
+Market Value:0.0086207
+10x2: model 20.51327 %, market 19.30000 % (+1.21327 %)
+Black Price:0.017557
+Market Value:0.016551
+10x3: model 20.71982 %, market 19.07000 % (+1.64982 %)
+Black Price:0.025527
+Market Value:0.023558
+10x4: model 20.47714 %, market 18.85000 % (+1.62714 %)
+Black Price:0.03297
+Market Value:0.030431
+10x5: model 20.06037 %, market 18.68000 % (+1.38037 %)
+Black Price:0.039816
+Market Value:0.037158
+10x6: model 20.41035 %, market 18.60000 % (+1.81035 %)
+Black Price:0.046389
+Market Value:0.042398
+10x7: model 20.50681 %, market 18.48000 % (+2.02681 %)
+Black Price:0.052562
+Market Value:0.047522
+10x8: model 20.42616 %, market 18.65000 % (+1.77616 %)
+Black Price:0.058285
+Market Value:0.053369
+10x9: model 20.21904 %, market 18.65000 % (+1.56904 %)
+Black Price:0.063579
+Market Value:0.058792
+10x10: model 19.92509 %, market 18.40000 % (+1.52509 %)
+Black Price:0.068476
+Market Value:0.063387
+calibrated to:
+a = 0.016539, sigma = 0.011079
+
+Payer bermudan swaption struck at 4.97994 % (ATM)
+HW (Jamshidian) :      0.039166
+implied volatility:      21.48431 %
+Payer bermudan swaption struck at 5.97592 % (OTM)
+HW (Jamshidian) :       0.023267
+Payer bermudan swaption struck at 3.98395 % (ITM)
+HW (Jamshidian) :       0.060772
+
+Run completed in 1 m 9 s
+
+Press any key to continue . . .

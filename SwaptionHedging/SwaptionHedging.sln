@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwaptionHedging", "SwaptionHedging\SwaptionHedging.vcxproj", "{50872CA9-5295-462B-8908-937241499DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50872CA9-5295-462B-8908-937241499DDE}.Debug|x64.ActiveCfg = Debug|x64
+		{50872CA9-5295-462B-8908-937241499DDE}.Debug|x64.Build.0 = Debug|x64
+		{50872CA9-5295-462B-8908-937241499DDE}.Debug|x86.ActiveCfg = Debug|Win32
+		{50872CA9-5295-462B-8908-937241499DDE}.Debug|x86.Build.0 = Debug|Win32
+		{50872CA9-5295-462B-8908-937241499DDE}.Release|x64.ActiveCfg = Release|x64
+		{50872CA9-5295-462B-8908-937241499DDE}.Release|x64.Build.0 = Release|x64
+		{50872CA9-5295-462B-8908-937241499DDE}.Release|x86.ActiveCfg = Release|Win32
+		{50872CA9-5295-462B-8908-937241499DDE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A71037-C34E-40D7-993D-AC5042F8E7EE}
+	EndGlobalSection
+EndGlobal

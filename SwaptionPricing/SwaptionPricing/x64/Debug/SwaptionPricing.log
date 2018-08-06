@@ -1,0 +1,19 @@
+﻿  CSVParser.cpp
+c:\raymond\nyu tandon\industry project\swaptionpricing\swaptionpricing\csvparser.cpp(115): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\raymond\nyu tandon\industry project\swaptionpricing\swaptionpricing\csvparser.cpp(120): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\raymond\nyu tandon\industry project\swaptionpricing\swaptionpricing\csvparser.cpp(202): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  EuropeanSwaption.cpp
+c:\raymond\nyu tandon\industry project\swaptionpricing\swaptionpricing\europeanswaption.cpp(1): warning C4083: expected '('; found identifier 'off'
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\pricingengines\blackformula.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\experimental\math\particleswarmoptimization.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\math\interpolations\lagrangeinterpolation.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\experimental\swaptions\haganirregularswaptionengine.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\experimental\volatility\noarbsabr.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\math\distributions\bivariatestudenttdistribution.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\math\randomnumbers\stochasticcollocationinvcdf.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\raymond\nyu tandon\internship\dev\libs\quantlib\branches\v1.12.x\ql\pricingengines\swap\cvaswapengine.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  EuropeanSwaption_MC.cpp
+  EuropeanSwaption_PartCalibration.cpp
+  Generating Code...
+  SwaptionPricing.vcxproj -> C:\raymond\NYU Tandon\Industry Project\SwaptionPricing\x64\Debug\SwaptionPricing.exe
